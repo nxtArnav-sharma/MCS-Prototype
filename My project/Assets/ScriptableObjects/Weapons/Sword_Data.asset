@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5898ace1828ecd94e81494e68321b305, type: 3}
+  m_Name: Sword_Data
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponData
+  weaponName: Warrior Sword
+  weaponType: 0
+  weaponPrefab: {fileID: 4758044654188304028, guid: 30d0387aef92a6f4f9a6b9a66d680516, type: 3}
+  damage: 30
+  attackRange: 1.8
+  attackCooldown: 0.45
+  comboWindow: 0.8
+  maxComboHits: 3
+  comboDamageMultipliers:
+  - 1
+  - 1.3
+  - 2
+  specialDamage: 60
+  specialCooldown: 5
+  specialVFXPrefab: {fileID: 0}
+  attackAnimNames:
+  - Attack0
+  - Attack1
+  - Attack2
+  specialAnimName: Attack2
+  swingSound: {fileID: 0}
+  hitSound: {fileID: 0}
