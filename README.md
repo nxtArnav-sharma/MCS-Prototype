@@ -19,6 +19,8 @@ This project is currently under active development. Core combat mechanics are im
 - **Cinemachine Support**: Fluid camera follow and lock-on mechanics for a professional feel.
 
 ## 🏗️ System Architecture
+![System Architecture](combat_system_architecture.svg)
+
 The system is designed with a "Module-first" approach:
 - **`CombatManager`**: Central hub for managing game state and global combat events.
 - **`WeaponData`**: ScriptableObject-based weapon configuration (stats, animations, prefabs).
