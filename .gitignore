@@ -76,26 +76,26 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Nested Unity Project in 'My project'
-My project/[Ll]ibrary/
-My project/[Tt]emp/
-My project/[Oo]bj/
-My project/[Bb]uild/
-My project/[Bb]uilds/
-My project/[Ll]ogs/
-My project/[Uu]serSettings/
-My project/[Mm]emoryCaptures/
-My project/[Rr]ecordings/
-My project/*.csproj
-My project/*.sln
-My project/*.userprefs
-My project/*.pidb
-My project/*.pdb
-My project/*.VC.db
-My project/*.VC.VC.opendb
-My project/.vs/
-My project/.idea/
-My project/*.suo
+# Nested Unity Project in 'MCP'
+MCP/[Ll]ibrary/
+MCP/[Tt]emp/
+MCP/[Oo]bj/
+MCP/[Bb]uild/
+MCP/[Bb]uilds/
+MCP/[Ll]ogs/
+MCP/[Uu]serSettings/
+MCP/[Mm]emoryCaptures/
+MCP/[Rr]ecordings/
+MCP/*.csproj
+MCP/*.sln
+MCP/*.userprefs
+MCP/*.pidb
+MCP/*.pdb
+MCP/*.VC.db
+MCP/*.VC.VC.opendb
+MCP/.vs/
+MCP/.idea/
+MCP/*.suo
 
 # System Files
 .DS_Store

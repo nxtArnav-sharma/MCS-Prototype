@@ -26,7 +26,7 @@ The system is designed with a "Module-first" approach:
 - **`HealthSystem`**: A decoupled component for managing HP, damage, and death events for both Player and AI.
 
 ## 📁 Repository Structure
-- **`/My project`**: The main Unity project folder.
+- **`/MCP`**: The main Unity project folder.
 - **`/Assets`**: (Unity-standard) Scripts, Models, Prefabs, and VFX.
 - **`/Documentation`**: Architecture diagrams and build guides.
 
