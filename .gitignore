@@ -103,6 +103,7 @@ Thumbs.db
 
 # Extra Exclusions
 *.png
+!ProjectPreview.png
 *-Antigravity.md
 *Claude.md
 Unity_Wiring_Guide.md

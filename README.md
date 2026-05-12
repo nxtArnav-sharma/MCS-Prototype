@@ -1,5 +1,7 @@
 # Modular Combat System Prototype ⚔️
 
+![Project Preview](ProjectPreview.png)
+
 ![Project Status](https://img.shields.io/badge/Status-Work--In--Progress-orange)
 ![Unity Version](https://img.shields.io/badge/Unity-2022.3%20LTS-blue)
 
